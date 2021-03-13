@@ -1,0 +1,16 @@
+.videoRow{
+    display: flex;
+    margin-bottom: 30px;
+    width: 70%;
+} 
+.videoRow img{
+    object-fit: contain;
+    width: 246px;
+    height: 138px;
+}
+.videoRow .video_text{
+    margin-left: 15px;
+}
+.videoRow .video_text .head{
+    margin-top: 15px;
+} 

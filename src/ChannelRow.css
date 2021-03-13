@@ -1,0 +1,24 @@
+.ChannelRow{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+.channerRow_Text{
+    display: flex;
+    flex-direction: column;
+}
+.channerRow_Text p{
+    color: #606060;
+    font-size: small !important;
+}
+.ChannelRow .logo{
+    height: 120px !important;
+    width: 120px !important;
+    margin: 10px 60px;
+    border-radius: 50%;
+}
+.channerRow_Text h4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
